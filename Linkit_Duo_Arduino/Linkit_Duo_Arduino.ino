@@ -32,7 +32,7 @@ void loop() {
             Serial.print(", State=");
             Serial.print(state);
             
-            
+            pinMode(gpio, OUTPUT);
             if(state==0) { 
                  //case "OFF":                // turn off D13 when receiving "0"
                   digitalWrite(gpio, LOW); 
