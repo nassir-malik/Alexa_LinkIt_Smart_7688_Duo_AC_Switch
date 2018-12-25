@@ -18,3 +18,11 @@ In This project you will beable to control LinkIt Smart 7688 Duo with Alexa.
 (C:\Users\<user>\AppData\Local\Arduino15\packages\LinkIt\hardware\avr\0.1.8\driverlinkit_smart_7688.inf)
 
 6. Flash test and enjoy.
+
+
+## Fix 
+
+
+If windows or Arduino is unable to recogniz the board follow the instructions at following link.
+
+https://docs.labs.mediatek.com/resource/linkit-smart-7688/en/tutorials/linkit-smart-7688-duo/linkit-smart-7688-duo-development-board-and-arduino-ide/updating-arduino-bootloader
