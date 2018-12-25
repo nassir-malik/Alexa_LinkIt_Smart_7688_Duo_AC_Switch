@@ -5,7 +5,6 @@ DynamicJsonBuffer jsonBuffer;
 void setup() { 
     Serial.begin(115200);  // open serial connection to USB Serial //port(connected to your computer)           
     Serial1.begin(57600);  // open internal serial connection to MT7688   
-    pinMode(9, OUTPUT);
 }
 
 
