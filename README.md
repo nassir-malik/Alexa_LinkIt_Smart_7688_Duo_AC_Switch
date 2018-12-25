@@ -1,7 +1,7 @@
 # Alexa_LinkIt_Smart_7688_Duo_AC_Switch
 
 
-YouTube tutorial -->
+YouTube tutorial --> https://youtu.be/dqGDihrrNos
 
 In This project you will beable to control LinkIt Smart 7688 Duo with Alexa.
 
@@ -13,7 +13,7 @@ In This project you will beable to control LinkIt Smart 7688 Duo with Alexa.
     
 4. Add Arduino board support by adding URL(http://download.labs.mediatek.com/package_mtk_linkit_smart_7688_index.json) in preferences
 
-5. Intall board driver for windows by right clicking following file and click install menu option. 
+5. Install board driver for windows by right clicking following file and click install menu option. 
 
 (C:\Users\<user>\AppData\Local\Arduino15\packages\LinkIt\hardware\avr\0.1.8\driverlinkit_smart_7688.inf)
 
