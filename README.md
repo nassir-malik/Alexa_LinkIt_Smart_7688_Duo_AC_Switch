@@ -1,5 +1,7 @@
 # Alexa_LinkIt_Smart_7688_Duo_AC_Switch
 
+I updated the code. It is working with Echo dot Gen 3 and Gen 2
+
 
 YouTube tutorial --> https://youtu.be/dqGDihrrNos
 
